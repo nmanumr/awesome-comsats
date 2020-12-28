@@ -2,4 +2,8 @@
 
 A curated collection of swagy 😎 resources and scripts for COMSATS students.
 
+## Table of Content
+
+* [CUOnline](#cuonline)
+
 ## CUOnline
