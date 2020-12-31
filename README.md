@@ -20,4 +20,4 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 
 ### DCCN
 
-* [CRC Calclulator step by step](https://asecuritysite.com/comms/crc_div)
+* [CRC Calclulator](https://asecuritysite.com/comms/crc_div) - Calculaes CRC step by step from given P(x) and G(x)
