@@ -10,6 +10,11 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 
 * [CUOnline](#cuonline)
 * [Subjects](#subjects)
+  * [DCCN](#dccn)
+  * [ITM](#itm)
+  * [Psycology](#psycology)
+  * [CA](#ca)
+  * [IDS](#ids)
 
 ## CUOnline
 
@@ -21,3 +26,19 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 ### DCCN
 
 * [CRC Calclulator](https://asecuritysite.com/comms/crc_div) - Calculaes CRC step by step from given P(x) and G(x)
+
+### ITM
+
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/introduction%20to%20management)
+
+### Psycology
+
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/psychology)
+
+### CA
+
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/computer%20architecture)
+
+### IDS
+
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/introduction%20to%20data%20science)
