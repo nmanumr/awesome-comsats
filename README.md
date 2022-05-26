@@ -33,18 +33,27 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 
 * [NC Solution Generator](https://github.com/nmanumr/comsats-scripts/tree/master/NC) - These scripts can generate solution of most of NC problems. It generate latex which can be pasted to overleaf to generate final pdf.
 
+### DIP
+* [DIP Solution Generator](https://github.com/nmanumr/comsats-scripts/tree/master/DIP) (by @ameerhmzx) - This notebook can generate solutions for dip problems.
+
+### OS
+* [OS Algorithms](https://github.com/nmanumr/comsats-scripts/tree/master/OS) (by @ameerhmzx) - This can generate working of Os algorithms.
+
+### TOA
+* [TOA Solution Generator](https://github.com/nmanumr/comsats-scripts/tree/master/TOA) - This notebook can generate solutions for some toa problems.
+
 ### ITM
 
-* [Notes](https://www.ameerhmzx.com/university-notes/#/page/introduction%20to%20management)
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/introduction%20to%20management) (by @ameerhmzx)
 
 ### Psycology
 
-* [Notes](https://www.ameerhmzx.com/university-notes/#/page/psychology)
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/psychology) (by @ameerhmzx)
 
 ### CA
 
-* [Notes](https://www.ameerhmzx.com/university-notes/#/page/computer%20architecture)
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/computer%20architecture) (by @ameerhmzx)
 
 ### IDS
 
-* [Notes](https://www.ameerhmzx.com/university-notes/#/page/introduction%20to%20data%20science)
+* [Notes](https://www.ameerhmzx.com/university-notes/#/page/introduction%20to%20data%20science) (by @ameerhmzx)
