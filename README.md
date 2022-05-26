@@ -1,4 +1,4 @@
-# COMSATS Hack Pack
+# Awesome COMSATS
 
 A curated collection of swagy 😎 resources and scripts for COMSATS students.
 
