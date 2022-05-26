@@ -11,6 +11,7 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 * [CUOnline](#cuonline)
 * [Subjects](#subjects)
   * [DCCN](#dccn)
+  * [NC](#nc)
   * [ITM](#itm)
   * [Psycology](#psycology)
   * [CA](#ca)
@@ -27,6 +28,10 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 ### DCCN
 
 * [CRC Calclulator](https://asecuritysite.com/comms/crc_div) - Calculaes CRC step by step from given P(x) and G(x)
+
+### NC
+
+* [NC Solution Generator](https://github.com/nmanumr/comsats-scripts/tree/master/NC) - These scripts can generate solution of most of NC problems. It generate latex which can be pasted to overleaf to generate final pdf.
 
 ### ITM
 
