@@ -20,6 +20,7 @@ Feel free to submit your own scripts and resources by [making a PR](https://gith
 
 * [Auto Feedback](https://gist.github.com/nmanumr/9037d9b3304f74d5515ff0af691ed850) - This script can automatically mark feedback for CUOnline Students Portal.
 * [Semester GPA Caculator](https://gist.github.com/nmanumr/247b74ebbf378d9b9104bc68d344afc7#file-semestergpa-js) - This script can calculate the semester GPA on result page.
+* [Quiz Sliver](https://github.com/nmanumr/quizsliver) - An extension to automatically solve hybrid quizzes on cuonline.
 
 ## Subjects
 
